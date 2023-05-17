@@ -1,0 +1,5 @@
+torch
+sentencepiece
+cpm_kernels
+ctranslate2>=3.12
+transformers>=4.28
